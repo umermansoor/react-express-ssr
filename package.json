@@ -1,0 +1,28 @@
+{
+  "name": "react-express-ssr",
+  "version": "1.0.0",
+  "description": "Boilerplate code for server-side rendered React app with Express and Node.",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umermansoor/react-express-ssr.git"
+  },
+  "author": "umer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umermansoor/react-express-ssr/issues"
+  },
+  "homepage": "https://github.com/umermansoor/react-express-ssr#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0",
+    "eslint-plugin-react": "^7.20.0"
+  },
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
